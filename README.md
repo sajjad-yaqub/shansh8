@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @shansh8
-- 👀 I’m interested in Technical Product Management
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Big Data
-- 📫 How to reach me linkein
+- 👋 Hi, I’m Sajjad Ansari
+- 👀 I’m a Senior Product Management
+
 
 <!---
 shansh8/shansh8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
