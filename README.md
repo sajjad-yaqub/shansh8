@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sajjad Ansari
-- 👀 I’m a Senior Product Management
+- 👀 I’m an AI Product Leader
 
 
 <!---
